@@ -1,0 +1,13 @@
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\bin\Debug\CodeFirstDemo1.exe.config
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\bin\Debug\CodeFirstDemo1.exe
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\bin\Debug\CodeFirstDemo1.pdb
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\bin\Debug\EntityFramework.dll
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\bin\Debug\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\bin\Debug\EntityFramework.xml
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\bin\Debug\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.exe
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.pdb
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.Migrations.InitialCreate.resources
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\CodeFirstDeveloper\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.Migrations.StudentNameLength.resources
